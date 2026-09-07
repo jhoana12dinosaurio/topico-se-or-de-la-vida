@@ -1,0 +1,10 @@
+{
+  "description": "Manage and track student health visits with an intuitive dashboard, detailed records, and easy registration designed for school staff and parents.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
